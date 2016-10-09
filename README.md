@@ -1,2 +1,4 @@
 # hello-world
-just getting up to speed with this github thing!
+Hi Humans,
+Aggrey here,I like machine learning and tensorflow.
+Regards!
